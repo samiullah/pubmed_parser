@@ -1,0 +1,190 @@
+1544185131207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.vWyePkjeaQHh"
+1544185133637	Marionette	INFO	Listening on port 59691
+1544185133710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544185137349	Marionette	INFO	Stopped listening on port 59691
+1544185604360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.QqLhKrjwQLpZ"
+1544185606588	Marionette	INFO	Listening on port 61180
+1544185606634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+1544185674515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.OTTEBaO3J0bL"
+1544185676927	Marionette	INFO	Listening on port 61536
+1544185677005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544185934542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.Z1oUr8CjQtoI"
+1544185936908	Marionette	INFO	Listening on port 62686
+1544185936998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+1544185999915	Marionette	INFO	Stopped listening on port 62686
+1544186002522	Marionette	INFO	Stopped listening on port 61180
+1544186004861	Marionette	INFO	Stopped listening on port 61536
+1544186131836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.dsyZZqko69SB"
+1544186134032	Marionette	INFO	Listening on port 63582
+1544186134135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544186185009	Marionette	INFO	Stopped listening on port 63582
+1544186362629	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.FyJJkBkfWeEG"
+1544186364821	Marionette	INFO	Listening on port 64661
+1544186364927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544186630637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.HMVfewYvQe6P"
+1544186633087	Marionette	INFO	Listening on port 49446
+1544186633148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544186787488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.CDlq1HYJ0iHQ"
+1544186789962	Marionette	INFO	Listening on port 50152
+1544186789970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544187176847	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.Lyr9dWQCULqP"
+1544187179417	Marionette	INFO	Listening on port 51821
+1544187179446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544187311749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.GcGl8FwaDC0G"
+1544187314395	Marionette	INFO	Listening on port 52448
+1544187314456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544188230542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tn/vh9rj8wx13916b0h2wvgfs9h0000gn/T/rust_mozprofile.Sb19T207zhvJ"
+1544188233439	Marionette	INFO	Listening on port 56305
+1544188233503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4179591/js/3812534/4087685/3812535/4155155/3990644/3812291/3908752/3879255/4121861/4076480/4001808.js, line 1197: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1544189109853	Marionette	INFO	Stopped listening on port 64661
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Child 41072, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1544189113605	Marionette	INFO	Stopped listening on port 49446
+1544189116578	Marionette	INFO	Stopped listening on port 50152
+1544189119197	Marionette	INFO	Stopped listening on port 51821
+1544189121644	Marionette	INFO	Stopped listening on port 52448
+1544189123941	Marionette	INFO	Stopped listening on port 56305

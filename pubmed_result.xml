@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30503690</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-7541</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Explore (New York, N.Y.)</Title>
+                <ISOAbbreviation>Explore (NY)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Resilient to Pain: A Model of How Yoga May Decrease Interference Among People Experiencing Chronic Pain.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1550-8307(18)30190-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.explore.2018.11.002</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic musculoskeletal pain is the leading cause of disability globally, yet for the majority of people who experience chronic pain, it does not seriously disable them or interfere with their life. People who experience severe pain yet low disability display a resilient course of pain. Yoga has been shown to decrease disability among people with pain, but it is not known how. Because even the most basic yoga practices possess many of the components thought to be important in fostering resilience, yoga is a promising means of improving resilience and clinical outcomes for people with chronic pain. A validated conceptual model of how the experience of chronic pain is affected by yoga is needed to guide a future research agenda and identify potential targets for chronic pain intervention. Ultimately, an explanatory model could guide the optimization of yoga and other non-pharmacological therapies for the treatment of chronic pain. I present a testable model.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Donaldson</LastName>
+                    <ForeName>Melvin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation> abcd donax007@umn.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Explore (NY)</MedlineTA>
+            <NlmUniqueID>101233160</NlmUniqueID>
+            <ISSNLinking>1550-8307</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30503690</ArticleId>
+            <ArticleId IdType="pii">S1550-8307(18)30190-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.explore.2018.11.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30513777</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2077-0383</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical medicine</Title>
+                <ISOAbbreviation>J Clin Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E503</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/jcm7120503</ELocationID>
+            <Abstract>
+                <AbstractText>Resting heart rate (RHR) is positively related with mortality. Regular exercise causes a reduction in RHR. The aim of the systematic review was to assess whether regular exercise or sports have an impact on the RHR in healthy subjects by taking different types of sports into account. A systematic literature research was conducted in six databases for the identification of controlled trials dealing with the effects of exercise or sports on the RHR in healthy subjects was performed. The studies were summarized by meta-analyses. The literature search analyzed 191 studies presenting 215 samples fitting the eligibility criteria. 121 trials examined the effects of endurance training, 43 strength training, 15 combined endurance and strength training, 5 additional school sport programs. 21 yoga, 5 tai chi, 3 qigong, and 2 unspecified types of sports. All types of sports decreased the RHR. However, only endurance training and yoga significantly decreased the RHR in both sexes. The exercise-induced decreases of RHR were positively related with the pre-interventional RHR and negatively with the average age of the participants. From this, we can conclude that exercise-especially endurance training and yoga-decreases RHR. This effect may contribute to a reduction in all-cause mortality due to regular exercise or sports.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reimers</LastName>
+                    <ForeName>Anne Kerstin</ForeName>
+                    <Initials>AK</Initials>
+                    <Identifier Source="ORCID">0000-0003-4053-1378</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>abcdef anne.reimers@hsw.tu-chemnitz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knapp</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>abcdeff guido.knapp@tu-dortmund.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reimers</LastName>
+                    <ForeName>Carl-Detlev</ForeName>
+                    <Initials>CD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>abc c.d.reimers@outlook.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>J Clin Med</MedlineTA>
+            <NlmUniqueID>101606588</NlmUniqueID>
+            <ISSNLinking>2077-0383</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PRISMA</Keyword>
+            <Keyword MajorTopicYN="N">cardiovascular health</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">sports</Keyword>
+            <Keyword MajorTopicYN="N">trail</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30513777</ArticleId>
+            <ArticleId IdType="pii">jcm7120503</ArticleId>
+            <ArticleId IdType="doi">10.3390/jcm7120503</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30509109</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0028-2685</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Oct</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neoplasma</Title>
+                <ISOAbbreviation>Neoplasma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiovagal regulation and transcutaneous pO2 in breast cancer patients - a pilot study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4149/neo_2018_180720N509</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">180720N509</ELocationID>
+            <Abstract>
+                <AbstractText>Vagal activity of patients with metastatic or recurrent breast cancer can predict their survival and can be altered by behavioral, pharmacological, and surgical interventions. Tumor oxygenation is important in defining the cellular metabolic microenvironment of human malignancies, O2-depleted areas coincide with nutrient and energy deprivation and with a hostile metabolic microenvironment. In our work we simultaneously measured two oxygen-sensitive parameters in breast cancer patients, blood oxygen saturation (SpO2) and transcutaneous O2 partial pressure (tcpO2) in breast tissue. Concurrently, 5-minute beat-to-beat heart rate recording was carried out in order to get heart rate variability (HRV) data from time-domain analyses, frequency-domain analyses, and nonlinear methods - entropy, symbolic dynamics. We compared these parameters in patients newly diagnosed with breast cancer, in patients after therapy and healthy controls. We found lower tcpO2 in patients with presence of malignant tumor compared to those after treatment and/or without presence of malignancy. We detected also lower 2UV% and entropy in non-linear HRV analysis in all breast cancer patients and these parameters associated with parasympathetic activity did not return to the values comparable with healthy individuals after anticancer therapy, contrary to tcpO2. Our findings show that breast tissue tcpO2 can recover after the anticancer treatment, but the complexity of the heart rate control and cardiovagal regulation remain impaired. This supports the idea that cancer patients and survivors might benefit from non-pharmacological interventions aimed at enhancing of vagal activity, e.g. HRV biofeedback or Yoga.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hunakova</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Institute, Biomedical Research Center, Slovak Academy of Sciences, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zvarik</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Physics and Biophysics, Faculty of Mathematics, Physics and Computer Science, Comenius University, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Majerova</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Physics and Biophysics, Faculty of Mathematics, Physics and Computer Science, Comenius University, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mestanik</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bella</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation> Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tonhajzerova</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>tin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Slovakia</Country>
+            <MedlineTA>Neoplasma</MedlineTA>
+            <NlmUniqueID>0377266</NlmUniqueID>
+            <ISSNLinking>0028-2685</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30509109</ArticleId>
+            <ArticleId IdType="doi">10.4149/neo_2018_180720N509</ArticleId>
+            <ArticleId IdType="pii">180720N509</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
