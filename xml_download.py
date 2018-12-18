@@ -17,6 +17,21 @@ search = driver.find_element_by_name("term")
 search.clear()
 search.send_keys(search_term)
 search.send_keys(Keys.RETURN)
+
+result = driver.find_element_by_xpath("//h3[@class='result_count left']")
+result_string = result.text
+final_result = result_string.split("of ")
+print("Total Number of Results are: "+ final_result)
+
+#Logic for handling usage of custom range based on number of results
+
+result_count = int(result_string)
+
+if result_count >9000:
+    
+else:
+    pass
+
 driver.execute_script("document.getElementsByClassName('tgt_dark')[3].click()")
 driver.execute_script("document.getElementsByName('EntrezSystem2.PEntrez.PubMed.Pubmed_ResultsPanel.Pubmed_DisplayBar.SendTo')[0].click()")
 

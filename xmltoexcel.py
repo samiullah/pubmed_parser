@@ -9,12 +9,12 @@ reload(sys)
 from lxml import etree as ET
 from lxml import html
 import ast
+import fileinput
 
 try:
     from itertools import zip_longest as zip_longest
 except:
     from itertools import izip_longest as zip_longest
-dictList = []
 
 print("***Getting the latest pubmed xml downloaded file*****")
 
@@ -52,20 +52,21 @@ def parse_authors(tree):
     for each in root.findall('.//AuthorList/Author'):
         aff = each.find('.//AffiliationInfo/Affiliation');
         auth = each.find('.//ForeName');
+        sec = each.find('.//LastName');
 
-        if aff is not None and auth is not None:
+        if aff is not None and auth is not None and sec is not None:
            
             lst = re.findall('\S+@\S+',aff.text)
    
             affiliations.append(lst)
-            naam.append(auth.text)
+            naam.append(auth.text+ ' '+ sec.text)
             values = ",".join(map(str, affiliations))
             affiliations_text = values
 
     
 
     
-    print(affiliations)
+    # print(affiliations)
 
        
 
@@ -73,11 +74,11 @@ def parse_authors(tree):
    
     # print(authors_text)
 
-    for item in m:
-        if len(item) == 0:
-            print('No Email')
-        else:
-            print(item)
+    # for item in m:
+    #     if len(item) == 0:
+    #         print('No Email')
+    #     else:
+    #         print(item)
 
     dict_out = {
     'authors': naam
@@ -86,9 +87,9 @@ def parse_authors(tree):
 
     x= dict_out['authors']
 
-    # we need to remove noemail keep null
+    # we need to remove  null email records
     # only email address
-    # we need to remove duplicate email addresses
+    # we need to remove duplicate email addresses#check for email only
     # if record>9000  =>add custom range
     # make record <9000 for custom range
     # Rename files
@@ -97,7 +98,13 @@ def parse_authors(tree):
     # csv filename shd have date range
     # dnt allow duplicate data
 
-    #write code for sending emails based on number of emails based on number
+    # write code for sending emails based on number of emails based on number
+    # update column to true if mail is send
+    # dnt download data that is already there based on data
+    # rename file with new data range
+
+    # no duplicate record
+    # date range 
 
 
 
@@ -110,6 +117,19 @@ def parse_authors(tree):
         wr.writerows(export_data)
     myfile.close()
 
+    with open(file,'r') as in_file, open('2.csv','w') as out_file:
+        seen = set() # set for fast O(1) amortized lookup
+        for line in in_file:
+            if line in seen: continue # skip duplicate
+
+            seen.add(line)
+            out_file.write(line)
+    
+    with open('2.csv', 'r') as inp, open('edit.csv', 'w') as out:
+        writer = csv.writer(out)
+        for row in csv.reader(inp):
+            if row[1] != "[]":
+                writer.writerow(row)
 
 
   
