@@ -72,13 +72,6 @@ def parse_authors(tree):
 
     m=ast.literal_eval(affiliations_text)
    
-    # print(authors_text)
-
-    # for item in m:
-    #     if len(item) == 0:
-    #         print('No Email')
-    #     else:
-    #         print(item)
 
     dict_out = {
     'authors': naam
