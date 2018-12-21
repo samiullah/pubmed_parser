@@ -138,8 +138,8 @@ def Get_custom_year_range():
         fromdate= datetime.strptime(From_date, date_format)
         todate = datetime.strptime(to_date, date_format)
         for i in range(iPossible_date_range_count):
-            date_range[i]=(fromdate,fromdate+timedelta(days_per_period))
-            fromdate = fromdate+timedelta(days_per_period)+timedelta(1)
+            date_range[i]=(todate-timedelta(days_per_period),todate)
+            todate = todate-timedelta(days_per_period)-timedelta(1)
         return date_range
 
 print(Get_custom_year_range())
